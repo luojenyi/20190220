@@ -1,4 +1,5 @@
 x = 10
 y = 5
-ans= x + y
+z = 100
+ans= x + y +z
 print(ans)
